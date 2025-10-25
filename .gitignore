@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+target/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+target/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
