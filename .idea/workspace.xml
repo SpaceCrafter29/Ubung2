@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e54af03-f1b7-4b0d-89e6-a864b9c206dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/P1_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/P2_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/P3_main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +39,8 @@
     "Application.H2_main.executor": "Run",
     "Application.H3_main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.P2_main.executor": "Run",
+    "Application.P3_main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -58,7 +69,7 @@
       <recent name="h2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P3_main">
     <configuration name="H3_main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h3.H3_main" />
       <module name="Ubung2" />
@@ -72,6 +83,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2.P2_main" />
+      <module name="Ubung2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p3.P3_main" />
+      <module name="Ubung2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P3_main" />
+        <item itemvalue="Application.P2_main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -89,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1761326861807</updated>
       <workItem from="1761326862803" duration="2020000" />
-      <workItem from="1761329927972" duration="2392000" />
+      <workItem from="1761329927972" duration="3146000" />
+      <workItem from="1761380628757" duration="988000" />
     </task>
     <servers />
   </component>
